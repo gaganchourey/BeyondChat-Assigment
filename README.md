@@ -3,7 +3,7 @@
 This is a responsive UI/UX implementation for BeyondChats' chatbot setup workflow.
 
 ## Live Demo
-[View Live Demo](https://your-github-username.github.io/BeyondChats-Assignment)
+[View Live Demo](https://gaganchourey.github.io/BeyondChat-Assigment/)
 
 ## Features
 - User Registration with email verification.
